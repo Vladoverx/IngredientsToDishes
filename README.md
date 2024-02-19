@@ -1,0 +1,1 @@
+Generation of recipes based on the ingredients depicted in the photo using large multimodal model llava-1.5-7b-hf for ingredient recognition and openchat-3.5-1210 for generating description based on the specified ingredients
